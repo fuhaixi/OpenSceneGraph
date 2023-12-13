@@ -19,6 +19,8 @@ src/osgQt/__
 
 lib/
 bin/
+build/
+out/
 
 *.pc
 *.conf
