@@ -106,3 +106,7 @@ _CPack_Packages/
 #individual build files
 config.yaml
 _build
+
+.cache/
+.vscode/
+build/
